@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pretty-photo-link-tag-generator\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/pretty-photo-link-tag-"
+"generator\n"
+"POT-Creation-Date: 2012-10-26 02:37:00+00:00\n"
+"PO-Revision-Date: 2012-10-26 11:39+0900\n"
+"Last-Translator: GTI Inc. <info@gti.jp>\n"
+"Language-Team: GTI Inc. <info@gti.jp>\n"
+"Language: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: pretty-photo-link-tag.php:212
+msgid "URL is not inputted."
+msgstr "URLが入力されていません。"
+
+#: pretty-photo-link-tag.php:247
+msgid "Pretty Photo Properties."
+msgstr "Pretty Photo 設定"
+
+#: pretty-photo-link-tag.php:252
+msgid "URL"
+msgstr "URL"
+
+#: pretty-photo-link-tag.php:254
+msgid "URL of the page/picture displayed by Pretty Photo"
+msgstr "Pretty Photoで表示したいページまたは画像のURL"
+
+#: pretty-photo-link-tag.php:257
+msgid "Window width of Pretty Photo"
+msgstr "表示されるPretty Photoのウィンドウ幅（ピクセル）"
+
+#: pretty-photo-link-tag.php:261
+msgid "Window height of Pretty Photo"
+msgstr "表示されるPretty Photoのウィンドウ高さ（ピクセル）"
+
+#: pretty-photo-link-tag.php:265
+msgid "TITLE"
+msgstr "タイトル"
+
+#: pretty-photo-link-tag.php:269
+msgid "CAUTION"
+msgstr "注意文"
+
+#: pretty-photo-link-tag.php:271
+msgid "The character string displayed on the window lower parts, such as notes"
+msgstr "ウィンドウの下に表示される文言"
+
+#: pretty-photo-link-tag.php:274
+msgid "The class property used with &lt;a&gt; tag "
+msgstr "&lt;a&gt;タグのclass属性を記述"
+
+#: pretty-photo-link-tag.php:276 pretty-photo-link-tag.php:281
+msgid "* If it is, please input."
+msgstr "※必要であれば記入"
+
+#: pretty-photo-link-tag.php:279
+msgid "The style property used with &lt;a&gt; tag "
+msgstr "&lt;a&gt;タグのstyle属性を記述"
+
+#: pretty-photo-link-tag.php:286
+msgid "Submit"
+msgstr "適用"
+
+#: pretty-photo-link-tag.php:287
+msgid "Cancel"
+msgstr "キャンセル"
